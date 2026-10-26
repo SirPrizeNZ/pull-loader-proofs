@@ -1,0 +1,16 @@
+# Proofs only. Keep executable projects and working capture material private.
+evidence/
+*.apk
+*.aab
+*.zip
+*.aar
+*.jar
+*.kt
+*.kts
+*.webp
+*.blend
+*.fbx
+*.glb
+*.py
+build/
+.gradle/
